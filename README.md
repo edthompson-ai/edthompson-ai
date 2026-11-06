@@ -18,6 +18,13 @@ I set up AI workflows with clear roles and approvals, and write the rules so a t
 
 ---
 
+## Portfolio (hiring)
+
+**[beyondtheiryears.org/portfolio](https://beyondtheiryears.org/portfolio)** — tools I directed Claude Code to build (page may still be draft/`noindex` until go-live).
+
+- **[jobs-pipeline](https://github.com/edthompson-ai/jobs-pipeline)** — the tool I use to run my own job search (demo: [ed-jobs-pipeline.pages.dev](https://ed-jobs-pipeline.pages.dev/))
+- **[devtrack](https://github.com/edthompson-ai/devtrack)** — development-tracking compiler (`devtrack demo` locally)
+
 ## Proof
 
 **[beyondtheiryears.org](https://beyondtheiryears.org)**: a math and languages practice game.
